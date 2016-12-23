@@ -303,7 +303,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-4 resent-grid recommended-grid slider-top-grids">
 						<div class="resent-grid-img recommended-grid-img">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/I_Iy93tBRSQ" frameborder="0" allowfullscreen></iframe>
+							<a href="http://patrickms.github.io/KalturaHackathon2014/">Link Video</a>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/I_Iy93tBRSQ" frameborder="0" allowfullscreen></iframe>
+
 							<div class="time">
 								<p>3:04</p>
 							</div>
@@ -321,6 +323,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-4 resent-grid recommended-grid slider-top-grids">
 						<div class="resent-grid-img recommended-grid-img">
+							<a href="http://patrickms.github.io/KalturaHackathon2014/">Link Video</a>
 							<iframe width="560" height="315" src="https://www.youtube.com/embed/HqmBa8FPMx8" frameborder="0" allowfullscreen></iframe>
 							<div class="time">
 								<p>7:23</p>
@@ -339,6 +342,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-4 resent-grid recommended-grid slider-top-grids">
 						<div class="resent-grid-img recommended-grid-img">
+							<a href="http://patrickms.github.io/KalturaHackathon2014/">Link Video</a>
 							<iframe width="560" height="315" src="https://www.youtube.com/embed/G9yaRUPogOk" frameborder="0" allowfullscreen></iframe>
 							<div class="time">
 								<p>4:04</p>
